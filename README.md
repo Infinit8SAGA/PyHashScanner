@@ -6,7 +6,7 @@
  
  this code will scan and find the imaginary malware it uses hash 
  
- for example i made a test.exe and a malware_hash file. the bad hash in malware_hash is in the test.exe too
+ for example i made a test.exe and a malware_hash file in the desktop. the bad hash in malware_hash is in the test.exe too
  
  so if you change the words in test.exe the hash will change too so you should copy the new hash in malware_hash.
  
